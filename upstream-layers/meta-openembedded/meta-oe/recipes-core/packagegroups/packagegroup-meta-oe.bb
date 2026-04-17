@@ -836,7 +836,6 @@ RDEPENDS:packagegroup-meta-oe-support = "\
     nss \
     numactl \
     onig \
-    openct \
     opencv \
     openldap \
     opensc \
@@ -950,7 +949,6 @@ RDEPENDS:packagegroup-meta-oe-ptest-packages = "\
     minicoredumper-ptest \
     oprofile-ptest \
     poco-ptest \
-    protobuf-ptest \
     psqlodbc-ptest \
     rsyslog-ptest \
     uthash-ptest \
